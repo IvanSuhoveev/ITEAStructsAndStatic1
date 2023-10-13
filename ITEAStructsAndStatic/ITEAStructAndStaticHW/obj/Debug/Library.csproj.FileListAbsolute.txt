@@ -1,0 +1,28 @@
+C:\Users\Ivan\Downloads\ITEAStructsAndStatic-main\ITEAStructsAndStatic-main\ITEAStructAndStaticHW\bin\Debug\ITEAStructAndStaticHW.exe.config
+C:\Users\Ivan\Downloads\ITEAStructsAndStatic-main\ITEAStructsAndStatic-main\ITEAStructAndStaticHW\bin\Debug\ITEAStructAndStaticHW.exe
+C:\Users\Ivan\Downloads\ITEAStructsAndStatic-main\ITEAStructsAndStatic-main\ITEAStructAndStaticHW\bin\Debug\ITEAStructAndStaticHW.pdb
+C:\Users\Ivan\Downloads\ITEAStructsAndStatic-main\ITEAStructsAndStatic-main\ITEAStructAndStaticHW\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Ivan\Downloads\ITEAStructsAndStatic-main\ITEAStructsAndStatic-main\ITEAStructAndStaticHW\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Downloads\ITEAStructsAndStatic-main\ITEAStructsAndStatic-main\ITEAStructAndStaticHW\obj\Debug\ITEAStructAndStaticHW.exe
+C:\Users\Ivan\Downloads\ITEAStructsAndStatic-main\ITEAStructsAndStatic-main\ITEAStructAndStaticHW\obj\Debug\ITEAStructAndStaticHW.pdb
+C:\Users\Ivan\source\repos\ITEAStructsAndStatic-main (1)\ITEAStructsAndStatic-main\ITEAStructAndStaticHW\bin\Debug\ITEAStructAndStaticHW.exe.config
+C:\Users\Ivan\source\repos\ITEAStructsAndStatic-main (1)\ITEAStructsAndStatic-main\ITEAStructAndStaticHW\bin\Debug\ITEAStructAndStaticHW.exe
+C:\Users\Ivan\source\repos\ITEAStructsAndStatic-main (1)\ITEAStructsAndStatic-main\ITEAStructAndStaticHW\bin\Debug\ITEAStructAndStaticHW.pdb
+C:\Users\Ivan\source\repos\ITEAStructsAndStatic-main (1)\ITEAStructsAndStatic-main\ITEAStructAndStaticHW\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\ITEAStructsAndStatic-main (1)\ITEAStructsAndStatic-main\ITEAStructAndStaticHW\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\ITEAStructsAndStatic-main (1)\ITEAStructsAndStatic-main\ITEAStructAndStaticHW\obj\Debug\ITEAStructAndStaticHW.exe
+C:\Users\Ivan\source\repos\ITEAStructsAndStatic-main (1)\ITEAStructsAndStatic-main\ITEAStructAndStaticHW\obj\Debug\ITEAStructAndStaticHW.pdb
+C:\Users\Ivan\source\repos\God\Доделать\ITEAStructsAndStatic-main (1)\ITEAStructsAndStatic-main\ITEAStructAndStaticHW\bin\Debug\ITEAStructAndStaticHW.exe.config
+C:\Users\Ivan\source\repos\God\Доделать\ITEAStructsAndStatic-main (1)\ITEAStructsAndStatic-main\ITEAStructAndStaticHW\bin\Debug\ITEAStructAndStaticHW.exe
+C:\Users\Ivan\source\repos\God\Доделать\ITEAStructsAndStatic-main (1)\ITEAStructsAndStatic-main\ITEAStructAndStaticHW\bin\Debug\ITEAStructAndStaticHW.pdb
+C:\Users\Ivan\source\repos\God\Доделать\ITEAStructsAndStatic-main (1)\ITEAStructsAndStatic-main\ITEAStructAndStaticHW\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\God\Доделать\ITEAStructsAndStatic-main (1)\ITEAStructsAndStatic-main\ITEAStructAndStaticHW\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\God\Доделать\ITEAStructsAndStatic-main (1)\ITEAStructsAndStatic-main\ITEAStructAndStaticHW\obj\Debug\ITEAStructAndStaticHW.exe
+C:\Users\Ivan\source\repos\God\Доделать\ITEAStructsAndStatic-main (1)\ITEAStructsAndStatic-main\ITEAStructAndStaticHW\obj\Debug\ITEAStructAndStaticHW.pdb
+C:\Users\Ivan\source\repos\God\Доделать\ITEAStructsAndStatic\ITEAStructsAndStatic\ITEAStructAndStaticHW\bin\Debug\ITEAStructAndStaticHW.exe.config
+C:\Users\Ivan\source\repos\God\Доделать\ITEAStructsAndStatic\ITEAStructsAndStatic\ITEAStructAndStaticHW\bin\Debug\ITEAStructAndStaticHW.exe
+C:\Users\Ivan\source\repos\God\Доделать\ITEAStructsAndStatic\ITEAStructsAndStatic\ITEAStructAndStaticHW\bin\Debug\ITEAStructAndStaticHW.pdb
+C:\Users\Ivan\source\repos\God\Доделать\ITEAStructsAndStatic\ITEAStructsAndStatic\ITEAStructAndStaticHW\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\God\Доделать\ITEAStructsAndStatic\ITEAStructsAndStatic\ITEAStructAndStaticHW\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\God\Доделать\ITEAStructsAndStatic\ITEAStructsAndStatic\ITEAStructAndStaticHW\obj\Debug\ITEAStructAndStaticHW.exe
+C:\Users\Ivan\source\repos\God\Доделать\ITEAStructsAndStatic\ITEAStructsAndStatic\ITEAStructAndStaticHW\obj\Debug\ITEAStructAndStaticHW.pdb
